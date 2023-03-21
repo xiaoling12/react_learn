@@ -1,7 +1,7 @@
 import './App.css';
 
 // 常规变量
-const name = '小灵'
+const name = '小灵1'
 const fruits = [
   { id: 1, name: '菠萝' },
   { id: 2, name: '芒果' },
